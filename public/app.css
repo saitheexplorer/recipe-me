@@ -1,0 +1,18 @@
+.spacer {
+  padding-top: 30px;
+}
+
+nav h1 {
+  color: white;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+li.recipe-listing {
+  list-style: none;
+  padding: 5px 0 5px 10px;
+}
+
+h3.recipe-title, a.edit-link {
+  display: inline;
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "boom": "^2.6.1",
+    "good": "^5.0.0",
+    "good-console": "^3.0.1",
+    "hapi": "^8.0.0",
+    "joi": "^5.0.2",
+    "lodash": "^2.4.1",
+    "lowdb": "^0.6.0",
+    "shortid": "^2.1.3"
+  }
+}
